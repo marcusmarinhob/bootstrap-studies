@@ -10,6 +10,11 @@ body{
     background-color: #00e8a6;
 }
 
+.contatos{
+    background-color: #c7dbd6;
+    color: #000000
+}
+
 .margin{
     padding-top: 20px;
     padding-bottom: 20px;
