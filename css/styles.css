@@ -10,8 +10,12 @@ body{
     background-color: #00e8a6;
 }
 
+.servicos{
+    background-color: whitesmoke;
+}
+
 .contatos{
-    background-color: #c7dbd6;
+    background-color: #00e8a6;
     color: #000000
 }
 
@@ -26,4 +30,10 @@ h1{
 
 .margin-servicos{
     align-self: center;
+}
+
+footer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #c7dbd6;
 }
